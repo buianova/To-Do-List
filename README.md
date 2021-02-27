@@ -11,7 +11,7 @@ Make sure you have installed SQLAlchemy within your environment before running t
 
 To run the To-Do-List, type: 
 ```
-  python To-Do-List.py
+  python todolist.py
 ```
 ## Built With
 
